@@ -1,5 +1,5 @@
 # ecommerce-product-recommender
-# LLMOPS-2 — Kubernetes Deployment & Monitoring on Google Cloud
+# Kubernetes Deployment & Monitoring on Google Cloud
 
 This repository demonstrates deploying an LLM-based application on **Google Cloud VM infrastructure** using **Docker, Minikube, and Kubernetes**, with full **observability via Prometheus and Grafana**.
 
